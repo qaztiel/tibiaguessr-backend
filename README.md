@@ -9,6 +9,7 @@ https://fastapi.tiangolo.com/tutorial/first-steps/
 ## DEVELOPERS
 
 - [ ] python
+- [ ] sqlalchemy
 
 1. clone/fork this repo
 2. `pip install "fastapi[all]"`
