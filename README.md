@@ -4,7 +4,7 @@ https://fastapi.tiangolo.com/tutorial/first-steps/
 
 - [ ] python
 
-1. clone/fork [https://github.com/qaztiel/tibiaguessr-backend.git](https://github.com/qaztiel/tibiaguessr-backend)
+1. clone/fork this repo
 2. `pip install "fastapi[all]"`
 3. `uvicorn main:app --reload`
 
