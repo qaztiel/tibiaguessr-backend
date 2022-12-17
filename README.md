@@ -14,4 +14,4 @@ https://fastapi.tiangolo.com/tutorial/first-steps/
 2. `pip install "fastapi[all]"`
 3. `uvicorn main:app --reload`
 
-Should have a working version of the backend on localhost:8000
+Should have a working version of the backend on localhost:8000 and visit the docs at localhost:8000/docs
