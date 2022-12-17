@@ -1,6 +1,12 @@
-﻿# tibiaguessr-backen
+﻿# tibiaguessr-backend
+ 
+ This is the repository for tibiaguessr.com
 
 https://fastapi.tiangolo.com/tutorial/first-steps/
+
+
+
+## DEVELOPERS
 
 - [ ] python
 
